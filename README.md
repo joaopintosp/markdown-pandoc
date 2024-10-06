@@ -1,9 +1,11 @@
 
-* [Conversão de ficheiros](#conversão-de-ficheiros)
+* [Overview](#overview)
+* [Utilização](#utilização)
+  * [Conversão de ficheiros](#conversão-de-ficheiros)
 
 --- 
 
-# Overview
+## Overview
 
 Este repositório serve como bakcup do meu template para notas em Markdown. 
 A razão principal para tirar notas em Markdown é, simplesmente, porque é muito mais fácil de escrever do que `LaTeX`. Quando eu quero tirar notas de alguma coisa, quero que seja um processo fácil e rápido e com Markdown isso é possível pois a `syntax` é bastante simples.
@@ -12,7 +14,7 @@ Após ter as notas escritas em Markdown, utilizo o `pandoc` para o converter par
 
 > *Este template foi feito para ser utilizado com a minha configuração de `neovim`, que pode ser instalada [aqui](https://github.com/joaopintosp/neovim-config)*.
 
-# Utilização
+## Utilização
 
 É necessário instalar uma distribuição `LaTeX` para converter os ficheiros `.md` em `.pdf`. Em sistemas Linux (Ubuntu) pode-se instalar a distribuição `texlive` com o seguinte comando.
 ```bash
@@ -24,7 +26,7 @@ sudo apt install texlive-full
 sudo apt install pandoc
 ```
 
-## Conversão de ficheiros
+### Conversão de ficheiros
 
 Para converter um ficheiro `main.md` em `main.pdf` basta executar o seguinte comando, dentro do diretório do ficheiro `main.md`.
 ```bash
