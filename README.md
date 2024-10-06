@@ -1,3 +1,8 @@
+
+* [Conversão de ficheiros](#conversão-de-ficheiros)
+
+--- 
+
 # Overview
 
 Este repositório serve como bakcup do meu template para notas em Markdown. 
@@ -6,8 +11,6 @@ A razão principal para tirar notas em Markdown é, simplesmente, porque é muit
 Após ter as notas escritas em Markdown, utilizo o `pandoc` para o converter para `pdf`, produzindo dessa forma um documento com uma formatação profissional, sem muito esforço.
 
 > *Este template foi feito para ser utilizado com a minha configuração de `neovim`, que pode ser instalada [aqui](https://github.com/joaopintosp/neovim-config)*.
-
----
 
 # Utilização
 
