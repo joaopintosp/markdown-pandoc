@@ -39,3 +39,5 @@ O argumento `--filter pandoc-crossref` é um *filtro do pandoc*. Um *filtro do p
 Para mais informações relativamente ao *pandoc-crossref*, ver este [link](https://github.com/lierdakil/pandoc-crossref).
 
 ## Template
+![alt tag](Previews/preview1.png)
+![alt tag](Previews/preview2.png)
