@@ -15,6 +15,8 @@ Após ter as notas escritas em Markdown, utilizo o `pandoc` para o converter par
 
 > *Este template foi feito para ser utilizado com a minha configuração de `neovim`, que pode ser instalada [aqui](https://github.com/joaopintosp/neovim-config)*.
 
+### Template
+
 ## Utilização
 
 É necessário instalar uma distribuição `LaTeX` para converter os ficheiros `.md` em `.pdf`. Em sistemas Linux (Ubuntu) pode-se instalar a distribuição `texlive` com o seguinte comando.
