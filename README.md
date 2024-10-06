@@ -3,6 +3,7 @@
 * [Overview](#overview)
 * [Utilização](#utilização)
   * [Conversão de ficheiros](#conversão-de-ficheiros)
+* [Template](#template)
 
 --- 
 
@@ -14,11 +15,6 @@ A razão principal para tirar notas em Markdown é, simplesmente, porque é muit
 Após ter as notas escritas em Markdown, utilizo o `pandoc` para o converter para `pdf`, produzindo dessa forma um documento com uma formatação profissional, sem muito esforço.
 
 > *Este template foi feito para ser utilizado com a minha configuração de `neovim`, que pode ser instalada [aqui](https://github.com/joaopintosp/neovim-config)*.
-
-### Template
-![alt tag](https://raw.githubusercontent.com/joaopintosp/markdown-pandoc/blob/main/Previews/preview1.png)
-<!-- ![alt tag](Previews/preview1.png) -->
-![alt tag](Previews/preview2.png)
 
 ## Utilização
 
@@ -42,3 +38,6 @@ pandoc -s -f markdown main.md -t pdf -o main.pdf --filter pandoc-crossref
 O argumento `--filter pandoc-crossref` é um *filtro do pandoc*. Um *filtro do pandoc* é uma forma de extender o `pandoc` de forma a que ele execute *macros* que o permite, neste caso, referenciar secções, equações, figuras, etc.
 Para mais informações relativamente ao *pandoc-crossref*, ver este [link](https://github.com/lierdakil/pandoc-crossref).
 
+## Template
+![alt tag](Previews/preview1.png)
+![alt tag](Previews/preview2.png)
