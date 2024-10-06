@@ -1,9 +1,9 @@
 ---
-title: Teoria do Controlo
-subtitle: Instrumentação e Controlo
-author: "João Sá Pereira"
+title: Título
+subtitle: Subtítulo
+author: "Nome do Autor"
 date: \today
-thanks: up201906772@up.pt
+thanks: Email do autor
 paper: a4
 numbersections: true
 autoEqnLabels: true
