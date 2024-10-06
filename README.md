@@ -16,7 +16,8 @@ Após ter as notas escritas em Markdown, utilizo o `pandoc` para o converter par
 > *Este template foi feito para ser utilizado com a minha configuração de `neovim`, que pode ser instalada [aqui](https://github.com/joaopintosp/neovim-config)*.
 
 ### Template
-![alt tag](Previews/preview1.png)
+![alt tag](https://raw.githubusercontent.com/joaopintosp/markdown-pandoc/blob/main/Previews/preview1.png)
+<!-- ![alt tag](Previews/preview1.png) -->
 ![alt tag](Previews/preview2.png)
 
 ## Utilização
